@@ -15,7 +15,7 @@ documentContainer.innerHTML = `<custom-style>
       See: https://github.com/home-assistant/home-assistant-polymer/pull/901
     */
     html {
-      font-size: 14px;
+      font-size: 15px;
       height: 100vh;
 
       /* text */
@@ -25,7 +25,7 @@ documentContainer.innerHTML = `<custom-style>
       --disabled-text-color: #bdbdbd;
 
       /* main interface colors */
-      --primary-color: #03a9f4;
+      --primary-color: #01a9f4;
       --dark-primary-color: #0288d1;
       --light-primary-color: #b3e5fC;
       --accent-color: #ff9800;
